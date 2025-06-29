@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Gradio cache
+.gradio_cache/
+__pycache__/
+
+# Executable files
+ffmpeg.exe
+
+# Temporary files
+check_models.py
