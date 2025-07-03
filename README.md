@@ -39,8 +39,9 @@ Create a .env file for your API key. In the main project folder, create a file n
 GOOGLE_API_KEY="PASTE_YOUR_API_KEY_HERE"
 
 Run the application:
-Bash
+```Bash
 python app.py
+```
 
 🚀 Future Improvements
 Mind Map Generation: An AI feature to visually map out the core concepts of the video.
